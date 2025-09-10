@@ -1,0 +1,9 @@
+com\meu_pacote\MainApp.class
+com\meu_pacote\state\EstadoComAgua.class
+com\meu_pacote\model\DadosHidrometro.class
+com\meu_pacote\api\ControladorAPI.class
+com\meu_pacote\ui\Display.class
+com\meu_pacote\state\EstadoHidrometro.class
+com\meu_pacote\state\EstadoSemAgua.class
+com\meu_pacote\model\Hidrometro.class
+com\meu_pacote\state\EstadoComAr.class
