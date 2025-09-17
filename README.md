@@ -75,4 +75,4 @@ A API REST fornece acesso em tempo real aos dados do simulador.
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ---
-Feito com ❤️ por [Seu Nome Aqui].
+Feito por Ilaninha.
